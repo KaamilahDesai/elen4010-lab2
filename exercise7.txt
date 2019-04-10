@@ -1,0 +1,4 @@
+Predicted outcome for exercise 7:
+
+[ 61, 12. 55.7, 99, 37.5, 61, 19 ]
+undefined                          // (There is no 7th element of the array)
