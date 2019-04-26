@@ -1,0 +1,12 @@
+{
+  "name": "kaamilah-destroyer_of_worlds",
+  "version": "1.0.0",
+  "description": "For Kaamilah, the destroyer of worlds. Incredibly powerful and destructive. Unable to stop destroying worlds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index"
+  },
+  "author": "Kaamilah, Destroyer of Worlds",
+  "license": "ISC"
+}
